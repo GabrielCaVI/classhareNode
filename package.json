@@ -1,0 +1,25 @@
+{
+  "name": "classhare",
+  "version": "1.0.0",
+  "description": "Classhare features not found in early 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielCaVI/classhareNode.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "web",
+    "project",
+    "classhare"
+  ],
+  "author": "gabrielcarrion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielCaVI/classhareNode/issues"
+  },
+  "homepage": "https://github.com/GabrielCaVI/classhareNode#readme"
+}

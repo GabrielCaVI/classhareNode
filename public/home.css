@@ -1,0 +1,27 @@
+
+
+.landing{
+  background-image: url(./assets/students.jpg);
+
+}
+.navbar {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+}
+
+a{
+  font-size: 25px ;
+  
+}
+
+.masthead{
+margin-top: 15%;
+}
+.nav-link{
+    color: white;
+}
+

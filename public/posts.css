@@ -1,0 +1,20 @@
+.navbar{
+    background-color: #1b83d3;
+   font-size: 25px;
+}
+
+
+
+.nav-link{
+    color: white;
+}
+
+#feed{
+    margin: 20px;
+}
+
+.card{
+    padding: 10px;
+    
+    border-radius: 2rem;
+}
